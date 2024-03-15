@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com/watch?v=K7T_JjvEamg)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/1A4pu7L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Wxw0kqq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <h4>
 
@@ -52,7 +52,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/8AUmeCD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/B3ORaoT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Continue setting up osTicket in the browser.
